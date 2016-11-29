@@ -104,6 +104,7 @@ and additional padding provided below*/
 	border-right: 2px solid lightgrey;
 	border-left: 2px solid lightgrey;
 	margin: 12px;
+	padding-top: 17px;
 }
 
 .CTA__title {
